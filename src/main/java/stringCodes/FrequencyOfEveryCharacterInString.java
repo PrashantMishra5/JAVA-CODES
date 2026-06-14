@@ -4,7 +4,8 @@ public class FrequencyOfEveryCharacterInString {
 
 	public static void main(String[] args) {
 
-		String str = "my name is prashant and i am good";
+	//	String str = "my name is prashant and i am good";
+		String str = "dnndsff sdfsf ffd  fffdf";
 
 		char array[] = str.toCharArray();
 		int count = 0;
